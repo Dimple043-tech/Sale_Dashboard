@@ -15,9 +15,6 @@ This project is an interactive sales dashboard built using Power BI.
 ## 📁 Dataset
 Sample Superstore Dataset  
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 🎯 Key Learning
 - Data modeling  
 - Interactive dashboard design  
